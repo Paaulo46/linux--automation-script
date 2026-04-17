@@ -25,6 +25,13 @@ Script que:
 - Gera nome automático com data e hora
 - Compacta em ".tar.gz"
 
+### Compactador.sh
+Script que:
+- Recebe nome do arquivo de saída
+- Recebe múltiplos arquivos como entrada
+- Valida argumentos
+- Compacta tudo em .tar.gz 
+
 ## Tecnologias 
 - Linux
 - Bash / Shell Script
