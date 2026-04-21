@@ -46,6 +46,7 @@ Script que:
 
 ## Exemplo de log gerado
 Nginx está em execução 2026-04-21 13:10:01
+
 Nginx está em execução 2026-04-21 13:11:01 
 
 ## Tecnologias 
