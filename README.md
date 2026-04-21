@@ -30,7 +30,13 @@ Script que:
 - Recebe nome do arquivo de saída
 - Recebe múltiplos arquivos como entrada
 - Valida argumentos
-- Compacta tudo em .tar.gz 
+- Compacta tudo em .tar.gz
+
+### monitoramento.sh
+Script que:
+- Verifica se o Nginx está em execução
+- Registra log com data e hora automaticamente
+- Pode ser agendando com cron para rodar a cada 5 minutos
 
 ## Tecnologias 
 - Linux
