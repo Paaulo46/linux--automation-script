@@ -44,6 +44,10 @@ Script que:
 - Registra log com data e hora automaticamente
 - Pode ser agendando com cron para rodar a cada 5 minutos
 
+## Exemplo de log gerado
+Nginx está em execução 2026-04-21 13:10:01
+Nginx está em execução 2026-04-21 13:11:01 
+
 ## Tecnologias 
 - Linux
 - Bash / Shell Script
